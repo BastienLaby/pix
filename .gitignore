@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# MAC
+.DS_Store
+
+*$py.class
+
+# virtualenvs windows
+pyvenv.cfg
+Include/
+Lib/
+Scripts/
+
+# vscode
+
+.vscode/
